@@ -1,0 +1,16 @@
+{
+"companyName": "Alexander Dela Cruz",
+"productName": "Unit 2 - Basic Gameplay",
+"productVersion": "1.0",
+"dataUrl": "unit 2.data.unityweb",
+"wasmCodeUrl": "unit 2.wasm.code.unityweb",
+"wasmFrameworkUrl": "unit 2.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.29f1"
+}
